@@ -1,8 +1,16 @@
 # frase_dia
 
-A new Flutter application.
+primiero aplicativo feito, no curso Desenvolvimento Android e Ios com Flutter 2020 -Crie 15 Apps
 
-## Getting Started
+![](C:\Users\Diego\OneDrive\Documentos\Estudo\Programacao\4-Mobile\Flutter\01-Basico\frase_dia\images\frases.jpg)
+
+### aplicativo que gera frases bem simples.
+
+-[X] usar espaçamentos
+-[X] usar imagens
+-[X] usar funções
+
+
 
 This project is a starting point for a Flutter application.
 
