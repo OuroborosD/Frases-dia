@@ -2,13 +2,17 @@
 
 primiero aplicativo feito, no curso Desenvolvimento Android e Ios com Flutter 2020 -Crie 15 Apps
 
-![](C:\Users\Diego\OneDrive\Documentos\Estudo\Programacao\4-Mobile\Flutter\01-Basico\frase_dia\images\frases.jpg)
+![](C:/Users/Diego/OneDrive/Documentos/Estudo/Programacao/4-Mobile/Flutter/01-Basico/frase_dia/images/frases.jpg)
 
 ### aplicativo que gera frases bem simples.
 
--[X] usar espaçamentos
--[X] usar imagens
--[X] usar funções
+- [x] usar espaçamentos
+
+- [x] usar imagens
+
+- [x] usar funções
+
+- [x] chamar funções no app
 
 
 
