@@ -2,7 +2,7 @@
 
 primiero aplicativo feito, no curso Desenvolvimento Android e Ios com Flutter 2020 -Crie 15 Apps
 
-![](C:/Users/Diego/OneDrive/Documentos/Estudo/Programacao/4-Mobile/Flutter/01-Basico/frase_dia/images/frases.jpg)
+![](https://github.com/OuroborosD/frases-dia/blob/master/images/frases.jpg)
 
 ### aplicativo que gera frases bem simples.
 
